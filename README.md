@@ -19,7 +19,7 @@ Hi there, I'm **playcodeboy**, a **playboy**.
 
 ### My GitHub Contributions
 
-![](https://raw.githubusercontent.com/L1cardo/L1cardo/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/playcodeboy/playcodeboy/main/assets/github-contribution-grid-snake.svg)
 
 
 ⭐️ From [playcodeboy](https://github.com/playcodeboy)
